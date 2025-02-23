@@ -10,3 +10,4 @@ Read full tutorials here.
 6. Microsoft rStar-Math paper implementation - https://www.datacamp.com/tutorial/rstar-math
 7. DeepSeek R1 Demo Project(Math Puzzle Solver) With Gradio and EasyOCR - https://www.datacamp.com/tutorial/deepseek-r1-project
 8. How to Set Up and Run DeepSeek R1 Locally With Ollama - https://www.datacamp.com/tutorial/deepseek-r1-ollama
+9. DeepSeek R1 RAG Chatbot With Chroma, Ollama, and Gradio - https://www.datacamp.com/tutorial/deepseek-r1-rag
