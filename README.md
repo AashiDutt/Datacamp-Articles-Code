@@ -11,3 +11,4 @@ Read full tutorials here.
 7. DeepSeek R1 Demo Project(Math Puzzle Solver) With Gradio and EasyOCR - https://www.datacamp.com/tutorial/deepseek-r1-project
 8. How to Set Up and Run DeepSeek R1 Locally With Ollama - https://www.datacamp.com/tutorial/deepseek-r1-ollama
 9. DeepSeek R1 RAG Chatbot With Chroma, Ollama, and Gradio - https://www.datacamp.com/tutorial/deepseek-r1-rag
+10. Claude 3.7 Sonnet API: A Guide With Demo Project - https://www.datacamp.com/tutorial/claude-3-7-sonnet-api
