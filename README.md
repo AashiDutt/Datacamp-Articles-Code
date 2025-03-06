@@ -12,3 +12,4 @@ Read full tutorials here.
 8. How to Set Up and Run DeepSeek R1 Locally With Ollama - https://www.datacamp.com/tutorial/deepseek-r1-ollama
 9. DeepSeek R1 RAG Chatbot With Chroma, Ollama, and Gradio - https://www.datacamp.com/tutorial/deepseek-r1-rag
 10. Claude 3.7 Sonnet API: A Guide With Demo Project - https://www.datacamp.com/tutorial/claude-3-7-sonnet-api
+![video (online-video-cutter com)](https://github.com/user-attachments/assets/29c9e550-6177-4068-bec7-42f560cebb30)
